@@ -1,4 +1,4 @@
-# Vocabulary-guide-of-relational-database-terminology
+# Relational database correct terms and why there is an inconsistency
 While I was learning, in more depth, the relational database using books, tutorials, guides and articles, I've quickly got confused as there is a tremendous inconsistency in the relational database terminology.
 
 Here an example:
